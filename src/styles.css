@@ -1,0 +1,29 @@
+body {
+  background-color: blanchedalmond;
+}
+.container {
+  max-width: 500px;
+  background-color: white;
+  position: relative;
+  height: auto;
+  border-radius: 5px;
+}
+.image {
+  max-width: 490px;
+  height: auto;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 15px;
+}
+h1 {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+.Preparation {
+  background-color: blanchedalmond;
+  border-radius: 10px;
+}
