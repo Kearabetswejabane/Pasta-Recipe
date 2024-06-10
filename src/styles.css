@@ -1,6 +1,7 @@
 body {
   background-color: #f5e1da;
   margin-top: 20px;
+  margin-bottom: 15px;
 }
 .container {
   max-width: 500px;
@@ -36,8 +37,8 @@ p {
 footer .social-link a {
   text-decoration: none;
   color: rgb(72, 149, 175);
-  font-size: 18px;
-  padding: 10px 14px;
+  font-size: 15px;
+  padding: 8px 12px;
   transition: all 100ms ease-in-out;
   border-radius: 30px;
 }
