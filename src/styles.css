@@ -7,18 +7,23 @@ body {
   position: relative;
   height: auto;
   border-radius: 5px;
+  margin-bottom: 60px;
 }
 .image {
-  max-width: 490px;
+  max-width: 500px;
   height: auto;
-  border-radius: 10px;
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 15px;
 }
 h1 {
   text-align: center;
+}
+h2 {
+  color: rgb(207, 103, 103);
+}
+h4 {
+  color: rgb(245, 162, 174);
 }
 p {
   text-align: center;
@@ -26,4 +31,16 @@ p {
 .Preparation {
   background-color: blanchedalmond;
   border-radius: 10px;
+}
+footer .social-link a {
+  text-decoration: none;
+  color: rgb(72, 149, 175);
+  font-size: 18px;
+  padding: 10px 14px;
+  transition: all 100ms ease-in-out;
+  border-radius: 30px;
+}
+footer .social-link a:hover {
+  color: rgb(64, 202, 117);
+  background-color: rgb(235, 89, 137);
 }
