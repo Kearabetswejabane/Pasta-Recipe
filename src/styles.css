@@ -30,6 +30,9 @@ h4 {
 p {
   text-align: center;
 }
+.paragraph {
+  text-align: justify;
+}
 .Preparation {
   background-color: blanchedalmond;
   border-radius: 10px;
